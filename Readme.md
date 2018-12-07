@@ -1,3 +1,8 @@
 ## BMKG Scrapper
 
-See branch ```develop```
+List :
+- [x] List Provinces
+- [ ] Weather
+- [ ] Climate
+- [ ] Earthquake
+- [ ] Air Quality
