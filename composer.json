@@ -1,0 +1,24 @@
+{
+    "name": "pravodev/bmkg-scrapper",
+    "description": "BMKG Scrapper",
+    "type": "library",
+    "require-dev": {
+        "imangazaliev/didom": "^1.13"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rifqi Khoeruman Azam",
+            "email": "pravodev@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PravoDev\\BMKGScrapper\\": "src"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
